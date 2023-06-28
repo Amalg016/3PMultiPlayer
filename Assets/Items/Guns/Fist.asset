@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5208ec7face8c0a46835bfc5b0df40ea, type: 3}
+  m_Name: Fist
+  m_EditorClassIdentifier: 
+  itemName: Fist
+  damage: 1
+  burst: {fileID: 8300000, guid: a28f97506cbe82d479cd46f40fa6efe0, type: 3}
